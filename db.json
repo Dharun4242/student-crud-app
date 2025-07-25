@@ -1,0 +1,16 @@
+{
+  "students": [
+    {
+      "id": "2",
+      "name": "Vishal",
+      "address": "Puliyakulam",
+      "phone": "6931556214"
+    },
+    {
+      "id": "3",
+      "name": "Dharun J",
+      "address": "Udumalpet",
+      "phone": "9976533301"
+    }
+  ]
+}
